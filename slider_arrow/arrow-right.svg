@@ -1,0 +1,16 @@
+<svg width="48.000000" height="48.000000" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<clipPath id="clip1_115">
+			<rect id="Frame" width="48.000000" height="48.000000" fill="white" fill-opacity="0"/>
+		</clipPath>
+	</defs>
+	<rect id="Frame" width="48.000000" height="48.000000" fill="#FFFFFF" fill-opacity="0"/>
+	<g clip-path="url(#clip1_115)">
+		<path id="Vector" d="M48 24C48 37.25 37.25 48 24 48C10.74 48 0 37.25 0 24C0 10.74 10.74 0 24 0C37.25 0 48 10.74 48 24Z" fill="#000000" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Vector" d="M19 24L28 24" stroke="#FFFFFF" stroke-opacity="1.000000" stroke-width="2.000000" stroke-linejoin="round" stroke-linecap="round"/>
+		<path id="Vector" d="M24.7 18.29C24.31 17.9 23.68 17.9 23.29 18.29C22.9 18.68 22.9 19.31 23.29 19.7L24.7 18.29ZM29 24L29.7 24.7C30.09 24.31 30.09 23.68 29.7 23.29L29 24ZM23.29 28.29C22.9 28.68 22.9 29.31 23.29 29.7C23.68 30.09 24.31 30.09 24.7 29.7L23.29 28.29ZM23.29 19.7L28.29 24.7L29.7 23.29L24.7 18.29L23.29 19.7ZM28.29 23.29L23.29 28.29L24.7 29.7L29.7 24.7L28.29 23.29Z" fill="#FFFFFF" fill-opacity="1.000000" fill-rule="nonzero"/>
+	</g>
+</svg>
